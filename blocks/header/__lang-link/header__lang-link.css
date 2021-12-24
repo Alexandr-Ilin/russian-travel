@@ -1,0 +1,24 @@
+.header__lang-link {
+  font-size: 24px;
+  /*line-height: 28px;*/
+  line-height: 96%;
+  font-weight: 400;
+  color: white;
+  margin-right: 18px;
+}
+
+.header__lang-link:last-of-type {
+  margin: 0;
+}
+
+.header__lang-link[type="radio"] {
+  display: none;
+}
+
+.header__lang-link:hover {
+  cursor: pointer;
+}
+
+.header__lang-link[type="radio"]:checked + .header__lang-link{
+  border-bottom: 1px solid white;
+}
