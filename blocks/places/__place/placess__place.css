@@ -1,0 +1,8 @@
+.places__place {
+  margin: 0 auto 80px;
+}
+
+.places__place:first-of-type {
+  margin-top: 92px;
+}
+

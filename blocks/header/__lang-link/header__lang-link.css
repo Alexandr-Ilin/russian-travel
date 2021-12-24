@@ -5,6 +5,9 @@
   font-weight: 400;
   color: white;
   margin-right: 18px;
+  list-style: none;
+  display: inline;
+  padding: 0;
 }
 
 .header__lang-link:last-of-type {

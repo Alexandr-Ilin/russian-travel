@@ -1,11 +1,5 @@
-@font-face {
-  font-family: "Inter";
-  src: url(../../vendor/Inter-Regular.woff);
-  font-weight: normal;
-}
-
 .page {
-  font-family: "inter";
+  font-family: "inter", "arial", sans-serif ;
   min-width: 1280px;
   background: #2a2c2f;
   -webkit-font-smoothing: antialiased;

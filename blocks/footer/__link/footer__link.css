@@ -1,0 +1,24 @@
+.footer__link {
+  list-style: none;
+  display: inline;
+  text-decoration: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  /* identical to box height, or 112% */
+  color: #fff;
+  margin: 0 18px 0 0;
+  translate: opacity linear 0.2s;
+}
+
+.footer__link:last-of-type {
+  margin: 0;
+}
+
+.footer__link:hover {
+  opacity: .8;
+}
+
+
