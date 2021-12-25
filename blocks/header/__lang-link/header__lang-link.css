@@ -1,27 +1,21 @@
 .header__lang-link {
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
   font-size: 24px;
-  /*line-height: 28px;*/
-  line-height: 96%;
-  font-weight: 400;
-  color: white;
-  margin-right: 18px;
-  list-style: none;
-  display: inline;
-  padding: 0;
-}
-
-.header__lang-link:last-of-type {
-  margin: 0;
-}
-
-.header__lang-link[type="radio"] {
-  display: none;
+  line-height: 28px;
+  /* identical to box height, or 117% */
+  text-decoration-line: underline;
+  mix-blend-mode: normal;
 }
 
 .header__lang-link:hover {
   cursor: pointer;
 }
 
-.header__lang-link[type="radio"]:checked + .header__lang-link{
-  border-bottom: 1px solid white;
+@media screen and (min-width:320px) and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 20px;
+  }
 }

@@ -1,6 +1,6 @@
 .footer__link {
   list-style: none;
-  display: inline;
+  display: inline-block;
   text-decoration: none;
   font-family: Inter;
   font-style: normal;

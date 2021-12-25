@@ -1,0 +1,6 @@
+.header__lang-links {
+  margin-block: 0;
+  padding-inline-start: 0;
+  transform: translateY(2px);/*Подгонка под логотип*/
+  list-style-type: none;
+}
