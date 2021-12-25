@@ -1,3 +1,11 @@
 .lead__images {
   display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width:768px) and (max-width: 1023px) {
+  .lead {
+    padding: 0;
+  }
 }

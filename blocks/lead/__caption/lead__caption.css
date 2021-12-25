@@ -12,3 +12,15 @@
   margin-top: 8px;
   align-self: flex-start;
 }
+
+@media screen and (min-width:768px) and (max-width: 1023px) {
+  .lead__caption {
+    padding-left: 24px;
+  }
+}
+
+@media screen and (max-width:768px){
+  .lead__caption {
+    padding-left: 16px;
+  }
+}
