@@ -22,6 +22,7 @@
 @import url(../blocks/intro/__list-accent/intro__list-accent.css);
 @import url(../blocks/content/__photo-grid/content__photo-grid.css);
 @import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
 @import url(../blocks/places/__place/placess__place.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
