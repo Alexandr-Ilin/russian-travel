@@ -7,10 +7,12 @@
   /* identical to box height, or 117% */
   text-decoration-line: underline;
   mix-blend-mode: normal;
+  cursor: url(../../../images/Pointer.png), pointer;
+  transition: opacity linear .4s;
 }
 
 .header__lang-link:hover {
-  cursor: pointer;
+  opacity: .8;
 }
 
 @media screen and (max-width: 767px) {

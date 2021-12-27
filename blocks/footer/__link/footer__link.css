@@ -1,16 +1,14 @@
 .footer__link {
   list-style: none;
-  display: inline-block;
   text-decoration: none;
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 18px;
   /* identical to box height, or 112% */
   color: #fff;
-  margin: 0 18px 0 0;
   translate: opacity linear 0.2s;
+  cursor: url(../../../images/Pointer.png), pointer;
 }
 
 .footer__link:last-of-type {
@@ -19,6 +17,14 @@
 
 .footer__link:hover {
   opacity: .8;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__link {
+    display: block;
+    font-size: 24px;
+  line-height: 24px;
+  }
 }
 
 
