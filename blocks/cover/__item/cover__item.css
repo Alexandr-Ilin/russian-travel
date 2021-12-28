@@ -37,25 +37,19 @@
 
 @media screen and (min-width:1024px) and (max-width:1279px) {
   .cover__item {
-    min-height: 640px;
+    min-height: calc(100vw*640/1024)
   }
 }
 
 @media screen and (min-width:768px) and (max-width:1023px) {
   .cover__item {
-    min-height: 480px;
+    min-height: calc(100vw*480/768)
   }
 }
 
-@media screen and (min-width:425px) and (max-width:767px) {
+@media screen and (max-width: 767px) {
   .cover__item {
-    min-height: 264px;
-  }
-}
-
-@media screen and (max-width:424px) {
-  .cover__item {
-    min-height: 200px;
+    min-height: calc(100vw*200/320)
   }
 }
 

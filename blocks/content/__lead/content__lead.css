@@ -1,9 +1,0 @@
-.content__lead {
-  margin: 48px auto 0;
-}
-
-@media screen and (min-width: 1280px) {
-  .content__lead {
-    margin: 56px auto 0;
-  }
-}
