@@ -18,6 +18,4 @@
 
 [Ссылка на проект](https://alexandr-ilin.github.io/russian-travel/index.html "Учебная работа №3")
 
-=======
->>>>>>> e2593d449bf7af82667cd939f72901e620672ff5
-
+<a href="https://alexandr-ilin.github.io/russian-travel/index.html" title="Учебная работа №3" target="_blank">Откроется в новом окне</a>
