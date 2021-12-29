@@ -17,5 +17,3 @@
 * Git bash
 
 [Ссылка на проект](https://alexandr-ilin.github.io/russian-travel/index.html "Учебная работа №3")
-
-<a href="https://alexandr-ilin.github.io/russian-travel/index.html" title="Учебная работа №3" target="_blank">Откроется в новом окне</a>
