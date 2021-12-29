@@ -14,9 +14,7 @@
   position: relative;
   z-index: 0;
   cursor: url(../../../images/Pointer.png), pointer;
-  /*width: 100%;
-  height: 100%;*/
-}
+ }
 
 .cover__item::before {
   position: absolute;
