@@ -8,6 +8,13 @@
   margin-block: 0;
 }
 
+@media screen and (min-width: 1920px) {
+  .place__title {
+    font-size: 108px;
+    line-height: 114px;
+  }
+}
+
 @media screen and (min-width:768px) and (max-width:1023px) {
   .place__title {
     font-size: 42px;

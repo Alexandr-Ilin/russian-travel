@@ -7,6 +7,12 @@
   max-width: 1920px;
 }
 
+@media screen and (min-width: 1920px) {
+  .footer {
+    padding: 138px 72px 36px;
+  }
+}
+
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .footer {
     padding: 88px 24px 24px;

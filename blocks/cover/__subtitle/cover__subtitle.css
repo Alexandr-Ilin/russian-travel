@@ -10,7 +10,32 @@
   margin-block: 0;
 }
 
-@media screen and (max-width:767px) {
+@media screen and (min-width: 1920px) {
+  .cover__subtitle {
+    font-size: 27px;
+    line-height: 33px;
+    max-width: 540px;
+  }
+}
+
+@media screen and (min-width:1650px) and (max-width: 1919px) {
+  .cover__subtitle {
+    font-size: 22.5px;
+    line-height: 27.45px;
+    max-width: 460px;
+  }
+}
+
+@media screen and (min-width:448px) and (max-width: 767px) {
+  .cover__subtitle {
+    font-size: 19.5px;
+    line-height: 22px;
+    max-width: 400px;
+    white-space: pre-line;
+  }
+}
+
+@media screen and (max-width:447px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;

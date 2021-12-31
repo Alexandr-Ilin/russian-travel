@@ -1,5 +1,4 @@
 .lead__caption {
-  font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
@@ -10,6 +9,14 @@
   color: #fff;
   margin-block: 0;
   align-self: flex-start;
+}
+
+@media screen and (min-width:1920px) {
+  .lead__caption {
+    font-size: 15px;
+    line-height: 21px;
+    letter-spacing: 2.25px;
+  }
 }
 
 @media screen and (min-width:768px) and (max-width: 1023px) {

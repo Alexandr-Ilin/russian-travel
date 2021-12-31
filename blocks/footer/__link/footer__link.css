@@ -19,6 +19,13 @@
   opacity: .8;
 }
 
+@media screen and (min-width: 1920px) {
+  .footer__link-item {
+    font-size: 24px;
+    line-height: 27px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .footer__link {
     display: block;

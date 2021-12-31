@@ -13,3 +13,10 @@
 .place__link:hover{
   opacity: .8;
 }
+
+@media screen and (min-width: 1920px) {
+  .place__link {
+    font-size: 27px;
+    line-height: 33px;
+  }
+}
