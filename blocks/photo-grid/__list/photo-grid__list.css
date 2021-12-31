@@ -45,6 +45,6 @@
   .photo-grid__list {
     /*grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));*/
     padding: 64px 16px 0;
-    gap:12px;
+    gap: 12px;
   }
 }
