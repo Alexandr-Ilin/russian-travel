@@ -3,6 +3,10 @@
   margin: 0 18px 0 0;
 }
 
+.footer__link-item:last-child {
+  margin: 0;
+}
+
 @media screen and (min-width: 1920px) {
   .footer__link-item {
     margin: 0 27px 0 0;
@@ -13,10 +17,6 @@
 
   .footer__link-item {
     display: block;
-    margin-top: 32px;
-  }
-
-  .footer__link-item:first-of-type {
-    margin: 0;
+    margin-bottom: 32px;
   }
 }
