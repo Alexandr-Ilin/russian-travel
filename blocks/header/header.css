@@ -5,6 +5,7 @@
   align-items: center;
   box-sizing: border-box;
   width: 100%;
+  max-width: 1920px;
 }
 
 

@@ -1,7 +1,7 @@
 .intro__title {
   font-style: normal;
   font-weight: 900;
-  font-size: calc(100vw*54/1280);
+  font-size: 54px;
   line-height: 1.07;
   /* identical to box height, or 107% */
   color: #fff;
