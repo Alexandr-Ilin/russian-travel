@@ -1,8 +1,8 @@
 .footer__copyright {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
-  line-height: 16px;
+  font-size: .875em;
+  line-height: 1.14;
   /* identical to box height, or 114% */
   color: #fff;
   margin-block: 0;
@@ -10,6 +10,6 @@
 
 @media screen and (max-width: 767px) {
   .footer__copyright {
-    margin-top: 48px;
+    margin-top: 3em;
   }
 }

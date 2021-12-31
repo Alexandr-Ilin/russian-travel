@@ -1,13 +1,13 @@
 .header__lang-links {
   margin-block: 0;
   padding-inline-start: 0;
-  transform: translateY(7px);/*Выравнивание под логотип*/
+  transform: translateY(.4375em);/*Выравнивание под логотип*/
   list-style-type: none;
 }
 
 @media screen and (max-width: 767px) {
 
   .header__lang-links{
-    transform: translateY(3px);/*Выравнивание под логотип*/
+    transform: translateY(.1875em);/*Выравнивание под логотип*/
   }
 }

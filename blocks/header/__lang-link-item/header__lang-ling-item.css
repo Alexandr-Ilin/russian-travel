@@ -1,6 +1,6 @@
 .header__lang-link-item {
   display: inline-block;
-  margin-right: 18px;
+  margin-right: 1.125em;
 }
 
 .header__lang-link-item:last-of-type {

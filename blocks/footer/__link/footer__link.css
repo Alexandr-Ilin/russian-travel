@@ -3,8 +3,8 @@
   text-decoration: none;
   font-style: normal;
   font-weight: normal;
-  font-size: 16px;
-  line-height: 18px;
+  font-size: 1em;
+  line-height: 1.12;
   /* identical to box height, or 112% */
   color: #fff;
   translate: opacity linear 0.2s;
@@ -22,8 +22,8 @@
 @media screen and (max-width: 767px) {
   .footer__link {
     display: block;
-    font-size: 24px;
-  line-height: 24px;
+    font-size: 1.5em;
+  line-height: 1;
   }
 }
 

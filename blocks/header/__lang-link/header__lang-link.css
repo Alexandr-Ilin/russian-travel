@@ -2,8 +2,8 @@
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 24px;
-  line-height: 28px;
+  font-size: 1.5em;
+  line-height: 1.17;
   /* identical to box height, or 117% */
   text-decoration-line: underline;
   mix-blend-mode: normal;
@@ -17,7 +17,7 @@
 
 @media screen and (max-width: 767px) {
   .header__lang-link {
-    font-size: 18px;
-    line-height: 20px;
+    font-size: 1.125em;
+    line-height: 1.11;
   }
 }
