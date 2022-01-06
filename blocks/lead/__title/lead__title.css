@@ -14,16 +14,14 @@
   .lead__title {
     font-size: 144px;
     line-height: 150px;
-    width: min-content;
     margin-bottom: 48px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__title {
-    font-size: calc(100vw*40/320);
+    font-size: 40px;
     line-height: 1.1;
-    width: min-content;
     margin-bottom: 16px;
   }
 }

@@ -2,8 +2,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 22px;
-  /* or 122% */
+  line-height: 22px; /* or 122% */
   text-align: center;
   color: #fff;
   max-width: 360px;
@@ -26,20 +25,18 @@
   }
 }
 
-@media screen and (min-width:448px) and (max-width: 767px) {
+@media screen and (min-width: 425px) and (max-width: 767px) {
   .cover__subtitle {
-    font-size: 19.5px;
-    line-height: 22px;
+    font-size: 16px;
+    line-height: 19px;
     max-width: 400px;
-    white-space: pre-line;
   }
 }
 
-@media screen and (max-width:447px) {
+@media screen and (max-width: 424px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 16px;
     max-width: 288px;
-    white-space: pre-line;
   }
 }

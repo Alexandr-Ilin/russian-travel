@@ -1,8 +1,7 @@
 .header__lang-link-item {
-  display: inline-block;
   margin-right: 18px;
 }
 
-.header__lang-link-item:last-of-type {
+.header__lang-link-item:last-child {
   margin: 0;
 }

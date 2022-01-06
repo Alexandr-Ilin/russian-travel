@@ -5,6 +5,7 @@
   width: 100%;
   box-sizing: border-box;
   max-width: 1920px;
+  align-items: baseline;
 }
 
 @media screen and (min-width: 1920px) {

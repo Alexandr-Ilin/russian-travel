@@ -2,8 +2,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 1.63;
-  /* or 26px */
+  line-height: 1.63; /* or 26px */
   color: #fff;
   margin-block: 0;
   margin-top: 40px;
@@ -15,5 +14,5 @@
     font-size: 24px;
     margin-top: 60px;
     max-width: 1035px;
- }
+  }
 }

@@ -2,8 +2,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
-  line-height: 14px;
-  /* identical to box height, or 140% */
+  line-height: 14px; /* identical to box height, or 140% */
   letter-spacing: 1.5px;
   text-transform: uppercase;
   color: #fff;
@@ -11,7 +10,7 @@
   align-self: flex-start;
 }
 
-@media screen and (min-width:1920px) {
+@media screen and (min-width: 1920px) {
   .lead__caption {
     font-size: 15px;
     line-height: 21px;
@@ -19,13 +18,13 @@
   }
 }
 
-@media screen and (min-width:768px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead__caption {
     padding-left: 24px;
   }
 }
 
-@media screen and (max-width:767px){
+@media screen and (max-width: 767px) {
   .lead__caption {
     padding-left: 16px;
   }

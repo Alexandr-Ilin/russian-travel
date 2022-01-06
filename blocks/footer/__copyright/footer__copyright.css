@@ -2,8 +2,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 16px;
-  /* identical to box height, or 114% */
+  line-height: 16px; /*identical to box height, or 114% */
   color: #fff;
   margin-block: 0;
 }

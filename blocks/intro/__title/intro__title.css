@@ -3,7 +3,6 @@
   font-weight: 900;
   font-size: 54px;
   line-height: 1.07;
-  /* identical to box height, or 107% */
   color: #fff;
   margin-block: 0;
 }
@@ -11,10 +10,10 @@
 @media screen and (min-width: 1920px) {
   .intro__title {
     font-size: 81px;
- }
+  }
 }
 
-@media screen and (min-width:768px) and (max-width: 1023px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .intro__title {
     font-size: 54px;
     line-height: 58px;

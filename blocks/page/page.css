@@ -1,17 +1,11 @@
 .page {
-  min-width: 320px;
-  font-family: "inter", "arial", sans-serif;
   background: #2a2c2f;
+  font-family: 'inter', 'arial', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  -webkit-text-size-adjust: 100%;
-  -ms-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern";
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
 }
-
-

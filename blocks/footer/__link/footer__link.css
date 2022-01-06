@@ -4,10 +4,9 @@
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 18px;
-  /* identical to box height, or 112% */
+  line-height: 18px; /*identical to box height, or 112% */
   color: #fff;
-  translate: opacity linear 0.2s;
+  transition: opacity linear .2s;
   cursor: url(../../../images/Pointer.png), pointer;
 }
 
@@ -33,5 +32,3 @@
   line-height: 24px;
   }
 }
-
-

@@ -1,19 +1,20 @@
 .header__lang-links {
   margin-block: 0;
   padding-inline-start: 0;
-  transform: translateY(7px);/*Выравнивание под логотип*/
+  transform: translateY(7px); /*Выравнивание под логотип*/
   list-style-type: none;
+  display: flex;
 }
 
-@media screen and (min-width:1920px) {
-  .header__lang-links{
-    transform: translateY(10.5px);/*Выравнивание под логотип*/
+@media screen and (min-width: 1920px) {
+  .header__lang-links {
+    transform: translateY(10.5px); /*Выравнивание под логотип*/
   }
 }
 
 @media screen and (max-width: 767px) {
 
-  .header__lang-links{
-    transform: translateY(3px);/*Выравнивание под логотип*/
+  .header__lang-links {
+    transform: translateY(3px); /*Выравнивание под логотип*/
   }
 }
