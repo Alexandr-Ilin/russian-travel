@@ -2,32 +2,14 @@
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px; /*or 106% */
+  line-height: 76px;
+  /*or 106% */
   text-align: center;
   color: #fff;
   max-width: 560px;
   margin-block: 0;
   margin-bottom: 32px;
 }
-
-@media screen and (min-width: 1920px) {
-  .cover__title {
-    font-size: 108px;
-    line-height: 114px;
-    margin-bottom: 48px;
-    max-width: 840px;
-  }
-}
-
-@media screen and (min-width: 1650px) and (max-width: 1919px) {
-  .cover__title {
-    font-size: 90px;
-    line-height: 95.4px;
-    margin-bottom: 40px;
-    max-width: 700px;
-  }
-}
-
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
   .cover__title {

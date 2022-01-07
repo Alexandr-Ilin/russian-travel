@@ -14,7 +14,7 @@
   position: relative;
   z-index: 0;
   cursor: url(../../../images/Pointer.png), pointer;
- }
+}
 
 .cover__item::before {
   position: absolute;
@@ -31,18 +31,6 @@
 
 .cover__item:hover::before {
   opacity: .8;
-}
-
-@media screen and (min-width: 1920px) {
-  .cover__item {
-    min-height: 1110px;
-  }
-}
-
-@media screen and (min-width: 1650px) and (max-width: 1919px) {
-  .cover__item {
-    min-height: 925px;
-  }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

@@ -4,14 +4,8 @@
   justify-content: space-between;
   width: 100%;
   box-sizing: border-box;
-  max-width: 1920px;
+  max-width: 1280px;
   align-items: baseline;
-}
-
-@media screen and (min-width: 1920px) {
-  .footer {
-    padding: 138px 72px 36px;
-  }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {

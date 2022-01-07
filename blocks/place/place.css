@@ -6,15 +6,6 @@
   max-width: 984px;
 }
 
-@media screen and (min-width: 1920px) {
-  .place {
-    grid-template-columns: 690px minmax(726px, auto);
-    grid-template-rows: auto 690px;
-    gap: 72px 60px;
-    max-width: 1476px;
-  }
-}
-
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .place {
     grid-template-columns: 440px minmax(456px, auto);

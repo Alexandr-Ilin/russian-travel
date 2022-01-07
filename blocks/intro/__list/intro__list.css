@@ -4,9 +4,3 @@
   margin-block: 0;
   margin-top: 33px;
 }
-
-@media screen and (min-width: 1920px) {
-  .intro__list {
-    margin-top: 49.5px;
-  }
-}

@@ -2,7 +2,8 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 22px; /* identical to box height, or 122% */
+  line-height: 22px;
+  /* identical to box height, or 122% */
   text-decoration-line: underline;
   color: #fff;
   transition: opacity linear .2s;
@@ -11,11 +12,4 @@
 
 .place__link:hover {
   opacity: .8;
-}
-
-@media screen and (min-width: 1920px) {
-  .place__link {
-    font-size: 27px;
-    line-height: 33px;
-  }
 }

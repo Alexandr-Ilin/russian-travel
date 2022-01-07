@@ -2,12 +2,6 @@
   padding: 92px 0 0;
 }
 
-@media screen and (min-width: 1920px) {
-  .places {
-    padding: 138px 0 0;
-  }
-}
-
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .places {
     padding: 92px 48px 0;
@@ -25,4 +19,3 @@
     padding: 64px 0 0;
   }
 }
-

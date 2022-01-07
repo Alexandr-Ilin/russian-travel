@@ -5,9 +5,3 @@
   line-height: 1.5;
   color: #fff;
 }
-
-@media screen and (min-width: 1920px) {
-  .intro__list-item {
-    font-size: 18px;
-  }
-}

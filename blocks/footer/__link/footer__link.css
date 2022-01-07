@@ -4,7 +4,8 @@
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 18px; /*identical to box height, or 112% */
+  line-height: 18px;
+  /*identical to box height, or 112% */
   color: #fff;
   transition: opacity linear .2s;
   cursor: url(../../../images/Pointer.png), pointer;
@@ -18,17 +19,10 @@
   opacity: .8;
 }
 
-@media screen and (min-width: 1920px) {
-  .footer__link-item {
-    font-size: 24px;
-    line-height: 27px;
-  }
-}
-
 @media screen and (max-width: 767px) {
   .footer__link {
     display: block;
     font-size: 24px;
-  line-height: 24px;
+    line-height: 24px;
   }
 }

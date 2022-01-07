@@ -5,10 +5,3 @@
   line-height: 1.5;
   color: #fff;
 }
-
-@media screen and (min-width: 1920px) {
-  .intro__span-accent {
-    font-size: 18px;
-  }
-}
-

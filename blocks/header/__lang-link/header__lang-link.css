@@ -3,7 +3,8 @@
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
-  line-height: 28px; /*identical to box height, or 117% */
+  line-height: 28px;
+  /*identical to box height, or 117% */
   text-decoration: none;
   mix-blend-mode: normal;
   cursor: url(../../../images/Pointer.png), pointer;
@@ -12,13 +13,6 @@
 
 .header__lang-link:hover {
   opacity: .8;
-}
-
-@media screen and (min-width: 1920px) {
-  .header__lang-link {
-    font-size: 36px;
-    line-height: 42px;
-  }
 }
 
 @media screen and (max-width: 767px) {

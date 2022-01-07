@@ -2,27 +2,12 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 22px; /* or 122% */
+  line-height: 22px;
+  /* or 122% */
   text-align: center;
   color: #fff;
   max-width: 360px;
   margin-block: 0;
-}
-
-@media screen and (min-width: 1920px) {
-  .cover__subtitle {
-    font-size: 27px;
-    line-height: 33px;
-    max-width: 540px;
-  }
-}
-
-@media screen and (min-width:1650px) and (max-width: 1919px) {
-  .cover__subtitle {
-    font-size: 22.5px;
-    line-height: 27.45px;
-    max-width: 460px;
-  }
 }
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
