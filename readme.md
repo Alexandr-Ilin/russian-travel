@@ -1,3 +1,4 @@
+[Проект на GitHub Pages](https://alexandr-ilin.github.io/russian-travel/index.html "Учебная работа №3")
 # Учебный проект: Путешествие по России
 
 **Описание**
@@ -16,5 +17,3 @@
 * Git bash
 * Применена методология БЭМ
 * Файлы организованы в Nested-структуру
-
-[Ссылка на проект](https://alexandr-ilin.github.io/russian-travel/index.html "Учебная работа №3")
