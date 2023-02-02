@@ -1,4 +1,4 @@
-[Проект на GitHub Pages](https://alexandr-ilin.github.io/russian-travel/index.html "Учебная работа №3")
+[Открыть проект в браузере](https://alexandr-ilin.github.io/russian-travel/index.html "Учебная работа №3")
 # Учебный проект: Путешествие по России
 
 **Описание**
